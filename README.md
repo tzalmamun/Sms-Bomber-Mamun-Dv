@@ -22,3 +22,19 @@ The author is **not responsible** for any misuse of this tool.
 **Mamun Dv**
 
 ⭐ If you find this project useful for learning, don’t forget to give it a star!
+
+[1]
+Fast Code পথম এ আপনার Thermax basics  setup Complete  Fast!  লাই ভাই লাইন সসব কমান্ডা চলান 
+
+```pkg update```
+```pkg upgrade```
+```pkg install git -y```
+```pkg install python```
+``` python-pip git```
+```pip install aiohttp```
+```termux-setup-storage```
+
+এবার উপরের bom.py ফাইল ডাউনলোড করুন এবং এই লোকেশন এ নিন /storage/emulated/0/
+
+```cd /sdcard```
+```python bom.py```

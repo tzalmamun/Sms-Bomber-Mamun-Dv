@@ -89,7 +89,10 @@ termux-setup-storage
 
 ## 📂 Script Run করার নিয়ম
 
- 1️⃣``` https://github.com/tzalmamun/Sms-Bomber-Mamun-Dv/blob/914828a03650f79079fb0e6076019ce335015eec/bom.py ``` 
+ 1️⃣### 🔹 download this file
+```bash
+https://github.com/tzalmamun/Sms-Bomber-Mamun-Dv/blob/914828a03650f79079fb0e6076019ce335015eec/bom.py
+``` 
  
  **`bom.py`** ফাইল ডাউনলোড করুন  
 2️⃣ ফাইলটি এই লোকেশনে রাখুন:

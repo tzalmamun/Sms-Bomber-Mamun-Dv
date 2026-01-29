@@ -134,5 +134,7 @@ python bom.py
 👉 YouTube চ্যানেল (অধিক সাহায্য ও ভিডিও টিউটোরিয়াল):  
 https://youtube.com/@mamundv
 
-"mamun dv"
-print("tzalmamun@gmail.com")
+### 🔹 WhatsApp
+```bash
++8801777811418
+```

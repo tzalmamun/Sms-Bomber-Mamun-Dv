@@ -137,7 +137,10 @@ python bom.py
 👉 YouTube চ্যানেল (অধিক সাহায্য ও ভিডিও টিউটোরিয়াল):  
 https://youtube.com/@mamundv
 
-### 🔹 WhatsApp
-```bash
-+8801777811418
+### কমান্ড লাস্ট 
+
 ```
+python -m pip install colorama
+```
+
+এটিও কমান্ড 
